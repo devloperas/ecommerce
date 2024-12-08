@@ -1,0 +1,1 @@
+TRAILING_SLASH = False
